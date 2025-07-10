@@ -1,0 +1,17 @@
+
+{
+  "short_name": "Smart Store",
+  "name": "Smart Store",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#F9FAFB",
+  "scope": "/"
+}
